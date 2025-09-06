@@ -1,0 +1,1 @@
+echo "Hello Blockchain!" > test_documents/sample.txt
