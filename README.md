@@ -40,7 +40,7 @@ document-blockchain-js/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/document-blockchain-js.git
+   git clone https://github.com/sameer-saifi1b/doc-verification-blockchain.git
    cd document-blockchain-js
    Install dependencies:
    ```
